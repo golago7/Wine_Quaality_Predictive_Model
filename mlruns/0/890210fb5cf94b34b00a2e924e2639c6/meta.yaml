@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Projects/MLOps/Wine_Quality_Predictive_Model/mlruns/0/890210fb5cf94b34b00a2e924e2639c6/artifacts
+end_time: 1723649529380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 890210fb5cf94b34b00a2e924e2639c6
+run_name: receptive-vole-656
+run_uuid: 890210fb5cf94b34b00a2e924e2639c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723649523913
+status: 3
+tags: []
+user_id: georg
