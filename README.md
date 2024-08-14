@@ -1,2 +1,2 @@
-# Wine_Quaality_Predictive_Model
+# Wine_Quality_Predictive_Model
 Linear Regression model for predicting wine quality using MFlow
