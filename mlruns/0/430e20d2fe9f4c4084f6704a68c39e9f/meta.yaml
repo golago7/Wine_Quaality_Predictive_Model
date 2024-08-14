@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Projects/MLOps/Wine_Quality_Predictive_Model/mlruns/0/430e20d2fe9f4c4084f6704a68c39e9f/artifacts
+end_time: 1723641853528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 430e20d2fe9f4c4084f6704a68c39e9f
+run_name: gifted-dog-209
+run_uuid: 430e20d2fe9f4c4084f6704a68c39e9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723641849529
+status: 3
+tags: []
+user_id: georg
