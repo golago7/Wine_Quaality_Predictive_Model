@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Projects/MLOps/Wine_Quality_Predictive_Model/mlruns/0/608e6c192c594022b00727287fbd461a/artifacts
+end_time: 1723639901152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 608e6c192c594022b00727287fbd461a
+run_name: sassy-cub-86
+run_uuid: 608e6c192c594022b00727287fbd461a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723639897613
+status: 3
+tags: []
+user_id: georg

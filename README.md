@@ -64,19 +64,15 @@ open up you local host and port
 ### dagshub
 [dagshub](https://dagshub.com/)
 
-import dagshub
-dagshub.init(repo_owner='golago7', repo_name='ML_with_MLFlow', mlflow=True)
-
-import mlflow
-with mlflow.start_run():
-  mlflow.log_param('parameter name', 'value')
-  mlflow.log_metric('metric name', 1)
-
+MLFLOW_TRACKING_URI=https://dagshub.com/golago7/Wine_Quality_Predictive_Model.mlflow \
+MLFLOW_TRACKING_USERNAME=golago7 \
+MLFLOW_TRACKING_PASSWORD=10d99bc390135b1fedac14eb2b25d4a776c2d7df \
+python script.py
 Run this to export as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/golago7/ML_with_MLFlow.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/golago7/Wine_Quality_Predictive_Model.mlflow
 
 export MLFLOW_TRACKING_USERNAME=golago7 
 

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Projects/MLOps/Wine_Quality_Predictive_Model/mlruns/0/f32828cdfb9d4e4c9f56661843cc7f87/artifacts
+end_time: 1723641405924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f32828cdfb9d4e4c9f56661843cc7f87
+run_name: gregarious-cat-691
+run_uuid: f32828cdfb9d4e4c9f56661843cc7f87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723641402280
+status: 3
+tags: []
+user_id: georg

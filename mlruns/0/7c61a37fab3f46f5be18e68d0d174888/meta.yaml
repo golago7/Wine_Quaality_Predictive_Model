@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Projects/MLOps/Wine_Quality_Predictive_Model/mlruns/0/7c61a37fab3f46f5be18e68d0d174888/artifacts
+end_time: 1723638763275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c61a37fab3f46f5be18e68d0d174888
+run_name: overjoyed-hog-767
+run_uuid: 7c61a37fab3f46f5be18e68d0d174888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723638759636
+status: 3
+tags: []
+user_id: georg

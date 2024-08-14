@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Projects/MLOps/Wine_Quality_Predictive_Model/mlruns/0/b236d858f64645a4ae2fea4e14239f4e/artifacts
+end_time: 1723638517480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b236d858f64645a4ae2fea4e14239f4e
+run_name: gentle-fawn-854
+run_uuid: b236d858f64645a4ae2fea4e14239f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723638513790
+status: 3
+tags: []
+user_id: georg
